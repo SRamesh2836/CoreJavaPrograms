@@ -10,7 +10,7 @@ public class StringRev {
 		
 	}
 	public static void main(String[] args) {
-		System.out.print(stringReverse("Ramesh Sunkavalli"));
+		System.out.print(stringReverse("Ramesh"));
 	}
 
 }
